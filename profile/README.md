@@ -108,7 +108,7 @@ Tech Echo 目前还不是一个大型公共社区。
 ---
 
 **Tech Echo Collective**  
-Science. Engineering. AI. Games. Creative Technology.
+“要谦逊；即使你们是星尘所造。”
 
 ---
 
@@ -179,7 +179,7 @@ We are interested in the space between theory and construction:
 - from games to systems
 - from ideas to working artifacts
 
-Tech Echo is not trying to become large for its own sake. We care more about clarity, technical depth, and concrete output.
+Tech Echo is not trying to become large for its own sake. We prioritize clarity, technical depth, and concrete results.
 
 ## Status
 
@@ -222,4 +222,4 @@ If you are interested in science, engineering, AI, games, or creative technology
 ---
 
 **Tech Echo Collective**  
-Science. Engineering. AI. Games. Creative Technology.
+Mementote humilitatis, etiam ex pulvere stellarum nati.
